@@ -32,7 +32,23 @@ p{
     color: aquamarine;
 }
 
+
+table{
+    background-color: aquamarine;
+}
+
+td{
+    color:black;
+           
+}
+tr{
+    color: black;
+}
+
+
+
+
 body{
  background-image:url(../images/02.jpg);
-  
-    }
+    
+}
