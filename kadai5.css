@@ -1,0 +1,81 @@
+div.title{
+    width: 960px;
+    height: 40px;
+    background-color: aliceblue;
+    font-size: 30px;
+    font-family: "Impact";
+    margin: 0px 0px 20px 0px ;
+}
+
+div.footer{
+     width: 960px;
+   height: 50px;
+   background-color: orange;
+   font-size: 30px;
+     font-family: "Impact";
+    text-align: right;
+     margin: 20px 0px 20px 0px ;
+}
+div.menu{
+    background-color: aquamarine;
+     width: 960px;
+    height: 320px;
+}
+div.menuitem1{
+    width: 250px;
+    height: 320px;
+    display:inline-block;
+    background-color: gainsboro;
+    vertical-align: top;
+    
+}
+div.menuitemA{
+    width: 250px;
+    height: 90px;
+    background-color: red;
+    vertical-align: top;
+    display:inline-block;
+    margin-bottom:20px;
+}
+
+div.menuitemB{
+    width: 250px;
+    height: 90px;
+    background-color: red;
+    margin-bottom:20px;
+    }
+div.menuitemC{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    
+}
+div.menuitemD{
+    vertical-align: top;
+    width:653px;
+    height:20px;
+    background-color: darkcyan;
+}
+div.menuitem2{
+    display:inline-block;
+     width: 653px;
+    height: 320px;
+    background-color: black;
+    vertical-align: top;
+    margin-left: 50px;
+    
+    
+    
+}
+div.images{
+    font-size: 0;
+}
+
+
+
+
+
+
+
+
+
