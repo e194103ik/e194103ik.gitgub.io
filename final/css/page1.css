@@ -1,0 +1,40 @@
+h1.to {
+    color:black; 
+    font-size:60px;
+    font-weight:normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color:lime
+    
+}
+h2.to2{
+    color: red;
+    
+   text-align: center;  
+   background-color:black;
+        
+    
+}
+h2.ot2{
+    color: black;
+    text-align: center;  
+     background-color:silver;
+}
+h4{
+    color: blue;
+}
+
+h1.ot {
+    color: black;
+    text-align: center;  
+    background-color:honeydew;
+}
+
+p{
+    color: black;
+}
+
+body{
+ background-image:url(../images/02.jpg);
+  
+    }
